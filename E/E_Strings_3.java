@@ -6,6 +6,6 @@ public class E_Strings_3 {
         System.out.println("Enter a string to convert in uppercase");
         String str = sc.nextLine();
         System.out.println(str.toUpperCase());
-
+        sc.close();
     }
 }
