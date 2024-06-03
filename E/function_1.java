@@ -1,4 +1,4 @@
-public class max_number {
+public class function_1 {
     static int greatest(int a, int b) {
         return a > b ? a : b;
     }

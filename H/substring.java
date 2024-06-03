@@ -1,3 +1,5 @@
+package java.H;
+
 import java.util.Scanner;
 
 public class substring {
