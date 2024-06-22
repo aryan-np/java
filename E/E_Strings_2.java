@@ -5,6 +5,6 @@ public class E_Strings_2 {
         for (int i = 1; i <= str.length(); i++) {
             length++;
         }
-        System.out.println(length);
+        System.out.println(length+"");
     }
 }
